@@ -1,6 +1,6 @@
 # fastai2-projects
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kagan777/bearDetectorApp/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kagan777/bearDetectorApp/master?filepath=voila%2Frender%2Fbear-detector-app.ipynb)
 
 
 Binder link:

@@ -1,6 +1,6 @@
 # fastai2-projects
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kagan777/bearDetectorApp/master?filepath=voila%2Frender%2Fbear_detector_app.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kagan777/bearDetectorApp/master?urlpath=voila%2Frender%2Fbear_detector_app.ipynb)
 
 
 Set new Binder:
